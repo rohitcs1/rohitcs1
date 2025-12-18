@@ -1,40 +1,41 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">DevOps Engineer | AWS | Linux | Cloud Deployments</h3>
+<h1 align="center">Rohit Kumar</h1>
+<h3 align="center">DevOps Engineer | AWS Cloud | Linux | Production Deployments</h3>
 
 <p align="center">
-  <a href="https://bireenaatithi.in"><img src="https://img.shields.io/badge/Live-Production-success?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/rohitcs1"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/rohitcs1"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://rohitcs.in">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/rohitcs1">LinkedIn</a> •
+  <a href="https://github.com/rohitcs1">GitHub</a>
 </p>
 
 ---
 
-## 🧑‍💻 About (Quick)
-| | |
-|--|--|
-| 🔧 Role | DevOps Engineer & Cloud Enthusiast |
-| ☁️ Focus | AWS · Linux · Production Deployments |
-| 🏗️ Work | Real-world, live systems (not demos) |
-| 🚀 Belief | Build → Deploy → Improve |
+### 🚀 About
+DevOps Engineer with hands-on experience in **deploying, managing, and scaling production-grade applications on AWS**.  
+I focus on **real systems, real traffic, and real deployments** — not demo projects.
 
 ---
 
-## 🛠️ Skills (Compact)
-
-| Cloud & DevOps | Backend | Database | Systems |
-|---------------|---------|----------|---------|
-| AWS | Node.js | PostgreSQL | Linux |
-| Nginx | React | MySQL | IoT |
-| PM2 | JavaScript | Supabase | Asterisk |
-
+### 🛠 Core Skills
 <p>
-<img src="https://skillicons.dev/icons?i=aws,linux,nginx,nodejs,react,postgres,github,git,raspberrypi,arduino" />
+<img src="https://skillicons.dev/icons?i=aws,linux,nginx,nodejs,react,postgres,git,github" />
 </p>
 
 ---
 
-## 🌐 Live Production (Card)
+### 🌐 Live Production
+**Hotel Management Software**  
+AWS EC2 • Ubuntu • Node.js • React • Supabase • PM2 • Nginx • SSL  
 
-| Project | Stack | Link |
-|-------|------|------|
-| Hotel Management Software | AWS EC2 · Node · React · Supabase · Nginx | https://biree
+🔗 https://bireenaatithi.in
+
+---
+
+### ✅ What I Do
+- AWS EC2 & Linux server administration  
+- Production deployment (PM2 + Nginx + HTTPS)  
+- Domain, DNS & SSL configuration  
+- Stable & secure cloud setups  
+
+---
+
+<p align="center"><strong>Building real systems. Deploying real products.</strong></p>
